@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikhil Kumar</h1>
-<h3 align="center">Programmer Analyst Intern at Cognizant</h3>
+<h3 align="center">Problem Solver @IVP</h3>
 
 - 📫 How to reach me **nikhil.kumar.nk05.nk@gmail.com**
 
